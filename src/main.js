@@ -6,6 +6,8 @@ import App from './App.vue'
 import store from './vuex/store'
 import VueRouter from "vue-router";
 import routers  from "./router"
+import animate  from "./css/animate.css"
+
 Vue.use(VueRouter);
 Vue.use(MintUI)
 Vue.config.debug = true;
