@@ -36,6 +36,7 @@
     }
 </script>
 <style>
+
 #user{
     height:120px;
     background:rgba(41,148,83,0.7);

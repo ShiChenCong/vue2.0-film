@@ -39,6 +39,7 @@
     }
 </script>
 <style>
+    /* @import "../css/animate.css"; */
     .page-swipe .mint-swipe {
         left:0;
         right:0;
