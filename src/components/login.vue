@@ -30,7 +30,6 @@
             },
             goBack(){
                 console.log (this.$router)
-
                 this.$router.go(-1)
             },
             register(){

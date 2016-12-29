@@ -24,7 +24,9 @@
         margin: 0;
         padding: 0
     }
-
+    footer {
+        bottom: -1px;
+    }
     footer ul {
         list-style: none;
         overflow: hidden;

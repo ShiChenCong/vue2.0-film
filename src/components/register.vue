@@ -22,6 +22,7 @@
         },
         methods:{
             goLogin(){
+
                 this.$router.go(-1)
             },
             userRegister(){
