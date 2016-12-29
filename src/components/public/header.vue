@@ -8,7 +8,6 @@
         </div>
 
         <div id="search" v-if="flag=='false'">
-
                 <input type="text" placeholder="电影名、演员、类型" v-model="searchText"/>
                 <button @click="search">搜索</button>
 

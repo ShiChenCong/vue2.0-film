@@ -1,6 +1,7 @@
 # vue-film
 
 > vue2.0+vuex +router+resource
+>https://faithree.github.io/2016/12/29/vue-film/
 
 ## Start
 
