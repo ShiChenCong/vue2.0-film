@@ -4,7 +4,7 @@
             <router-view></router-view>
         </transition>
     </div>
-</template>z
+</template>
 <script>
     import headerDiv from './components/public/header.vue';
     import footerDiv from './components/public/footer.vue';

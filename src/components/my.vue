@@ -7,7 +7,7 @@
         </div>
         <div class="list1">
             <mt-cell title="我的消息" value=">"></mt-cell>
-            <router-link :to="{ path: '/index/myCollection',query: {name:'我的收藏',flag:'true'}}">  <mt-cell title="我的订单" value=">"></mt-cell></router-link>
+            <router-link :to="{ path: '/index/myCollection',query: {name:'我的订单',flag:'true'}}">  <mt-cell title="我的订单" value=">"></mt-cell></router-link>
             <mt-cell title="我的足迹" value=">"></mt-cell>
             <mt-cell title="我的分享" value=">"></mt-cell>
         </div>

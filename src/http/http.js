@@ -12,7 +12,7 @@ var jsonp = function (url, data, callback) {
     }
     var fnSuffix = Math.random().toString().replace('.', '');
     var cbFuncName = 'my_json_cb_' + fnSuffix;
-    // 不推荐
+    
     querystring += 'callback=' + cbFuncName;
 
     var scriptElement = document.createElement('script');
